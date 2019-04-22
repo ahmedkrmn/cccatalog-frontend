@@ -75,7 +75,7 @@ const ImageProviderService = {
         url: 'https://www.metmuseum.org',
         logo: 'met_logo.png',
       },
-      museumsvictoria: {
+      museumvictoria: {
         name: 'Museums Victoria',
         url: 'https://collections.museumvictoria.com.au',
         logo: 'museumvictoria_logo.svg',
